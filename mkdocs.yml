@@ -1,15 +1,15 @@
-site_name: My Docs
+site_name: PSD - Docs
 site_description: Getting Started with Docker
-site_author: Docker
-# site_url: https://squidfunk.github.io/mkdocs-material/
+site_author: Alexander Martinez Fajardo
+site_url: https://squidfunk.github.io/mkdocs-material/
 
 # Repository
-repo_name: docker/getting-started
-repo_url: https://github.com/docker/getting-started
+repo_name: alex00pep/dosing-site-tech-overview
+repo_url: https://github.com/alex00pep/dosing-site-tech-overview
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2020 Docker'
+copyright: 'Copyright &copy; 2020 Alexander Martinez Fajardo'
 
 # Configuration
 theme:
@@ -22,7 +22,6 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/images/favicon.png
-  logo: 'images/docker-labs-logo.svg'
 
 extra_css:
   - css/styles.css
@@ -60,3 +59,16 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   - attr_list
+
+# Page tree
+nav:
+  - Getting Started: pages/index.md
+  - Goals and milestones: pages/milestones.md
+  - Technical requirements: pages/reqs.md
+  - Our application: pages/app.md
+  - User interface Prototypes: pages/ui.md
+  - Browser support: pages/browser.md
+  - Persisting our data: pages/db.md
+  - Deploying our application to Cloud: pages/cloud.md
+  - Agreement for billing and maintenance costs: pages/billing.md
+  - License: pages/license.md
