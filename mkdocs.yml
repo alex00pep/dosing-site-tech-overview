@@ -1,4 +1,4 @@
-site_name: PSD - Docs
+site_name: LPDS - Docs
 site_description: Getting Started with Docker
 site_author: Alexander Martinez Fajardo
 site_url: https://squidfunk.github.io/mkdocs-material/
@@ -62,6 +62,7 @@ markdown_extensions:
 
 # Page tree
 nav:
+  - Home: index.md
   - Getting Started: pages/index.md
   - Goals and milestones: pages/milestones.md
   - Technical requirements: pages/reqs.md
