@@ -18,9 +18,6 @@ please [open an issue]:
 
 Browser support matrix sourced from [caniuse.com].[^1]
 
-  </figcaption>
-</figure>
-
   [^1]:
     The data was collected from [caniuse.com] in January 2022, and is primarily
     based on browser support for [custom properties], [mask images] and the

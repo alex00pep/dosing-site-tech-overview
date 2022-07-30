@@ -1,1 +1,1 @@
-This software application will cost around 15000 dollars, including the full development lifecycle iterations up un until the release. If further modifications/updates/removals are requested there will be an additional charge depending on the 
+This software application will cost around 15000 dollars, including the full development lifecycle iterations up un until the release. If further modifications/updates/removals are requested there will be an additional charge depending on the complexity of the change.

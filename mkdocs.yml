@@ -65,8 +65,7 @@ nav:
   - Home: index.md
   - Getting Started: pages/index.md
   - Goals and milestones: pages/milestones.md
-  - Technical requirements: pages/reqs.md
-  - Our application: pages/app.md
+  - Our application: pages/reqs.md
   - User interface Prototypes: pages/ui.md
   - Browser support: pages/browser.md
   - Persisting our data: pages/db.md

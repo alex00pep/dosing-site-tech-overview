@@ -9,7 +9,7 @@
 5. Manage patients and users.
 6. Calculate pellets dose based on scientific data and algorithm (business logic)
 7. Security
-6. 
+6. Resilient database using dockerrized MySQL database 
 
 
 ### ReactJS Frontend
@@ -36,8 +36,9 @@ The user and patient data will be stored on a Postgres database. For now, we wil
 Docker-Compose is an awesome tool that can handle multiple container deployments on the same host. We are creating 3 different containers for the 3 services (api, web, db) which will run on the same host machine. All we need is to create the docker-compose.yaml file.
 2. Use FastAPI as backend api technology.
 3. Use ReactJS as frontend technology.
-4. Alembic for database migrations
-5. PostgreSQL as relational database management system.
+4. MySQL as relational database management system.
+5. SQLAlchemy as Object Relational Mapper (ORM)
+6. Alembic for database migrations.
 4. Deployment on Deta for FastAPI backend API and Netlify for frontend UI.
 
 ## Dependencies
